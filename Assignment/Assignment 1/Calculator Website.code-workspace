@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../OneDrive/Documents/DOM"
+		},
+		{
+			"path": "../Major Project Work"
+		},
+		{
+			"path": "../../OneDrive/Documents/javascript"
+		},
+		{
+			"path": "../../OneDrive/Documents/EventHandling"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EventHandling"
+	}
+}
