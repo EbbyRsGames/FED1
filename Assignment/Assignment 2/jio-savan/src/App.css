@@ -1,0 +1,27 @@
+:root {
+  --player-theme-color: #D6EBF2; /* Default player color */
+}
+
+body {
+  transition: background-color 0.5s ease;
+  background-color: var(--player-theme-color);
+}
+
+/* You can add specific moods if you like */
+.mood-calm {
+  --player-theme-color: #1B7593; 
+}
+
+.mood-energetic {
+  --player-theme-color: #E14C38; 
+}
+
+.mood-happy {
+  --player-theme-color: #FADB56; 
+}
+
+.mood-sad {
+  --player-theme-color: #3F704D;
+}
+
+
